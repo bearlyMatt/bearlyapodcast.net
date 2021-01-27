@@ -8,4 +8,9 @@ title = "contact"
 
 Here's the best way to  show your support, or contact matt;
 
-email - matthewharazim@vivaldi.net
+email - matt@bearlyapodcast.net
+
+mastodon - bearlyMatt@mastodon.online
+
+twitter - #bearlyapodcast!
+

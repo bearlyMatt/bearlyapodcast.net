@@ -42,16 +42,16 @@ buildFuture = true
     identifier = "upcoming"
     url = "/upcoming"
 
-#[[Menu.Main]]
-#    name = "Resources"
-#    identifier = "resources"
-#    url = "#!"
+[[Menu.Main]]
+    name = "Resources"
+    identifier = "resources"
+    url = "#!"
 
-#[[Menu.Main]]
-#    name = "Books"
-#    identifier = "books"
-#    url = "/books"
-#    parent = "resources"
+[[Menu.Main]]
+    name = "Attributions"
+    identifier = "attr"
+    url = "/attributions"
+    parent = "resources"
 #[[Menu.Main]]
 #    name = "Podcasts"
 #    identifier = "podcasts"
@@ -66,8 +66,8 @@ site_layout = "row"
 enable_jumbo = "true"
 # enable_jumbo = "false"
 # truncate = "100"
-about_logo = "img/genericCover(2)"
-copyright_notice = "bearly a podcast! by [Matthew Harazim](https://www.matthewharazim.co.uk) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)"
+about_logo = "https://www.bearlyapodcast.net/img/genericCover(2).png"
+copyright_notice = "bearly a podcast! by [Matthew Harazim](https://www.matthewharazim.co.uk) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) [![](/img/valid-rss-rogers.png)](https://validator.w3.org/feed/check.cgi?url=https%3A//bearlyapodcast.net/episode/index.xml)"
 itunes_subscribe = "https://podcasts.apple.com/us/podcast/arrested-devops/id773888088?ign-mpt=uo%3D4&mt=2"
 android_subscribe = "https://subscribeonandroid.com/media.rss.com/bearlyapodcast/feed.xml"
 spotify_subscribe = "https://open.spotify.com/show/3QxxEMc4L3CuUGXmx9Ynhv"
@@ -87,7 +87,7 @@ media_prefix = "https://www.bearlyapodcast.net/"
     itunes_summary = "Matt thought as an unemployed audio creative, having a podcast on his portfolio might get him a job. Then he thought, what the heck? Join him on a weekly tangent on a random topic, from CBD to Homelabs, and everything in between. Sometimes even with a guest!" # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Matthew Harazim"
     itunes_owner_email = "matthewharazim@vivaldi.net" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
-    itunes_image = "img/genericCover(2).png" #fqdn to the image art for your podcast
+    itunes_image = "https://www.bearlyapodcast.net/img/genericCover(2).png" #fqdn to the image art for your podcast
     itunes_top_category = "Leisure"
     itunes_first_sub_category = "Hobbies"
     itunes_second_sub_category = "Games"

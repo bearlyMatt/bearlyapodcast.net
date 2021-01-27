@@ -30,10 +30,10 @@
       <itunes:name>Matthew Harazim</itunes:name>
       <itunes:email>matthewharazim@vivaldi.net</itunes:email>
     </itunes:owner>
-    <itunes:image href="img/genericCover%282%29.png" />
-    <googleplay:image href="img/genericCover%282%29.png"></googleplay:image>
+    <itunes:image href="https://www.bearlyapodcast.net/img/genericCover%282%29.png" />
+    <googleplay:image href="https://www.bearlyapodcast.net/img/genericCover%282%29.png"></googleplay:image>
     <image>
-      <url>img/genericCover(2).png</url>
+      <url>https://www.bearlyapodcast.net/img/genericCover(2).png</url>
       <title>bearly a podcast</title>
       <link>https://bearlyapodcast.net/</link>
     </image>
@@ -50,7 +50,7 @@
             
               Matt Harazim</itunes:author>
           
-          <itunes:episode>00</itunes:episode>
+          <itunes:episode>01</itunes:episode>
           
         <itunes:title>Let&#39;s Talk About Stuff</itunes:title>
         <itunes:subtitle><![CDATA[
@@ -62,7 +62,7 @@
         <description>bearly a podcast! is a audio blog/podcast about Matt, a 25 y/o wannabe sound engineer, with lots of knowledge and no experience. Each week, Matt tackles a new and exciting topic; sometimes trying to learn things, sometimes trying to teach. If you like nerdy things, pop culture and seeing if one man can crack the audio industry then this podcast is for you! In this pseudo episode, Matt talks about the inspiration behind the podcast, and what you can expect in the future!</description>
         <googleplay:description>bearly a podcast! is a audio blog/podcast about Matt, a 25 y/o wannabe sound engineer, with lots of knowledge and no experience. Each week, Matt tackles a new and exciting topic; sometimes trying to learn things, sometimes trying to teach. If you like nerdy things, pop culture and seeing if one man can crack the audio industry then this podcast is for you! In this pseudo episode, Matt talks about the inspiration behind the podcast, and what you can expect in the future!</googleplay:description>
         <content:encoded><![CDATA[<p>bearly a podcast! is a audio blog/podcast about Matt, a 25 y/o wannabe sound engineer, with lots of knowledge and no experience. Each week, Matt tackles a new and exciting topic; sometimes trying to learn things, sometimes trying to teach. If you like nerdy things, pop culture and seeing if one man can crack the audio industry then this podcast is for you! In this pseudo episode, Matt talks about the inspiration behind the podcast, and what you can expect in the future!</p>
-]]></content:encoded><itunes:image href="https://bearlyapodcast.net/img/episode/T01.jpg"></itunes:image>
-          <googleplay:image href="https://bearlyapodcast.net/img/episode/T01.jpg"></googleplay:image><enclosure url="https://www.bearlyapodcast.net//audio/BAP_T01.mp3" length="4321467" type="audio/mpeg" /><itunes:duration>00:02:56</itunes:duration><itunes:explicit>false</itunes:explicit>
-          <googleplay:explicit>false</googleplay:explicit></item></channel>
+]]></content:encoded><itunes:image href="https://www.bearlyapodcast.net/img/episode/T01.jpg"></itunes:image>
+          <googleplay:image href="https://www.bearlyapodcast.net/img/episode/T01.jpg"></googleplay:image><enclosure url="https://www.bearlyapodcast.net//audio/BAP_T01.mp3" length="4321467" type="audio/mpeg" /><itunes:duration>00:02:56</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item></channel>
 </rss>
