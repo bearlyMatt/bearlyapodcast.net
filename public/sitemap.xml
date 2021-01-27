@@ -23,18 +23,13 @@
   </url>
   
   <url>
-    <loc>https://bearlyapodcast.net/ep02/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <loc>https://bearlyapodcast.net/attributions/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bearlyapodcast.net/ep01/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bearlyapodcast.net/ep00/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://bearlyapodcast.net/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -44,16 +39,16 @@
   
   <url>
     <loc>https://bearlyapodcast.net/about/</loc>
+    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bearlyapodcast.net/resources/attributions/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bearlyapodcast.net/host/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bearlyapodcast.net/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -74,6 +69,11 @@
   
   <url>
     <loc>https://bearlyapodcast.net/guest/mchapiron/</loc>
+    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bearlyapodcast.net/resources/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
   </url>
   

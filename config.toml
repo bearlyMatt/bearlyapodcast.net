@@ -42,16 +42,16 @@ buildFuture = true
     identifier = "upcoming"
     url = "/upcoming"
 
-#[[Menu.Main]]
-#    name = "Resources"
-#    identifier = "resources"
-#    url = "#!"
+[[Menu.Main]]
+    name = "Resources"
+    identifier = "resources"
+    url = "#!"
 
-#[[Menu.Main]]
-#    name = "Books"
-#    identifier = "books"
-#    url = "/books"
-#    parent = "resources"
+[[Menu.Main]]
+    name = "Attributions"
+    identifier = "attr"
+    url = "/attributions"
+    parent = "resources"
 #[[Menu.Main]]
 #    name = "Podcasts"
 #    identifier = "podcasts"

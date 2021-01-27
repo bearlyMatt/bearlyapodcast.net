@@ -6,7 +6,7 @@
     <description>Recent content on bearly a podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bearlyapodcast.net/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,32 +21,12 @@
     </item>
     
     <item>
-      <title>The Wonders of a Homelab</title>
-      <link>https://bearlyapodcast.net/ep02/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      <title>attributions</title>
+      <link>https://bearlyapodcast.net/attributions/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://bearlyapodcast.net/ep02/</guid>
-      <description>Welcome to episode 02 of bearly a podcast.
-In this episode Matt discusses his experience of the Homelab (a home computer server, or &amp;lsquo;cloud&amp;rsquo;). As a budding programmer, the experiences had whilst configuring a homeserver has been brilliant. Even if that did involve hours of troubleshooting and restarting.</description>
-    </item>
-    
-    <item>
-      <title>What in the world is CBD?</title>
-      <link>https://bearlyapodcast.net/ep01/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bearlyapodcast.net/ep01/</guid>
-      <description>Welcome to episode 01 of bearly a podcast.
-In this episode, my guest Mel informs me on the CBD revolution which seems to be sweeping the world. Matt has no idea about CBD, and really feels like he should know more.</description>
-    </item>
-    
-    <item>
-      <title>Why should you care?</title>
-      <link>https://bearlyapodcast.net/ep00/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bearlyapodcast.net/ep00/</guid>
-      <description>Welcome to episode 00 of bearly a podcast. This is just a little introductory episode to find out a little more about your host Matt, and to set your expectations of what is to come!</description>
+      <guid>https://bearlyapodcast.net/attributions/</guid>
+      <description> Website Framework - Hugo Website Theme - Castanet Icons - Font Awesome RSS Validity - w3c  </description>
     </item>
     
     <item>
@@ -59,13 +39,24 @@ In this episode, my guest Mel informs me on the CBD revolution which seems to be
     </item>
     
     <item>
+      <title>attribution</title>
+      <link>https://bearlyapodcast.net/resources/attributions/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bearlyapodcast.net/resources/attributions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>contact</title>
       <link>https://bearlyapodcast.net/contact/</link>
       <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bearlyapodcast.net/contact/</guid>
       <description>Here&amp;rsquo;s the best way to show your support, or contact matt;
-email - matthewharazim@vivaldi.net</description>
+email - matt@bearlyapodcast.net
+mastodon - bearlyMatt@mastodon.online
+twitter - #bearlyapodcast!</description>
     </item>
     
     <item>
