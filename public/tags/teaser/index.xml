@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teaser on bearly a podcast</title>
+    <link>https://bearlyapodcast.net/tags/teaser/</link>
+    <description>Recent content in teaser on bearly a podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 27 Jan 2021 04:09:45 -0500</lastBuildDate>
+    
+	<atom:link href="https://bearlyapodcast.net/tags/teaser/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Let&#39;s Talk About Stuff</title>
+      <link>https://bearlyapodcast.net/teaser00/</link>
+      <pubDate>Wed, 27 Jan 2021 04:09:45 -0500</pubDate>
+      
+      <guid>https://bearlyapodcast.net/teaser00/</guid>
+      <description>bearly a podcast! is a audio blog/podcast about Matt, a 25 y/o wannabe sound engineer, with lots of knowledge and no experience. Each week, Matt tackles a new and exciting topic; sometimes trying to learn things, sometimes trying to teach. If you like nerdy things, pop culture and seeing if one man can crack the audio industry then this podcast is for you! In this pseudo episode, Matt talks about the inspiration behind the podcast, and what you can expect in the future!</description>
+    </item>
+    
+  </channel>
+</rss>

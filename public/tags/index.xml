@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on bearly a podcast</title>
+    <link>https://bearlyapodcast.net/tags/</link>
+    <description>Recent content in Tags on bearly a podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 27 Jan 2021 04:09:45 -0500</lastBuildDate>
+    
+	<atom:link href="https://bearlyapodcast.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>teaser</title>
+      <link>https://bearlyapodcast.net/tags/teaser/</link>
+      <pubDate>Wed, 27 Jan 2021 04:09:45 -0500</pubDate>
+      
+      <guid>https://bearlyapodcast.net/tags/teaser/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

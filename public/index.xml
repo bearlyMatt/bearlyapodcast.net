@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bearly a podcast</title>
+    <link>https://bearlyapodcast.net/</link>
+    <description>Recent content on bearly a podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bearlyapodcast.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Let&#39;s Talk About Stuff</title>
+      <link>https://bearlyapodcast.net/teaser00/</link>
+      <pubDate>Wed, 27 Jan 2021 04:09:45 -0500</pubDate>
+      
+      <guid>https://bearlyapodcast.net/teaser00/</guid>
+      <description>bearly a podcast! is a audio blog/podcast about Matt, a 25 y/o wannabe sound engineer, with lots of knowledge and no experience. Each week, Matt tackles a new and exciting topic; sometimes trying to learn things, sometimes trying to teach. If you like nerdy things, pop culture and seeing if one man can crack the audio industry then this podcast is for you! In this pseudo episode, Matt talks about the inspiration behind the podcast, and what you can expect in the future!</description>
+    </item>
+    
+    <item>
+      <title>The Wonders of a Homelab</title>
+      <link>https://bearlyapodcast.net/ep02/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bearlyapodcast.net/ep02/</guid>
+      <description>Welcome to episode 02 of bearly a podcast.
+In this episode Matt discusses his experience of the Homelab (a home computer server, or &amp;lsquo;cloud&amp;rsquo;). As a budding programmer, the experiences had whilst configuring a homeserver has been brilliant. Even if that did involve hours of troubleshooting and restarting.</description>
+    </item>
+    
+    <item>
+      <title>What in the world is CBD?</title>
+      <link>https://bearlyapodcast.net/ep01/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bearlyapodcast.net/ep01/</guid>
+      <description>Welcome to episode 01 of bearly a podcast.
+In this episode, my guest Mel informs me on the CBD revolution which seems to be sweeping the world. Matt has no idea about CBD, and really feels like he should know more.</description>
+    </item>
+    
+    <item>
+      <title>Why should you care?</title>
+      <link>https://bearlyapodcast.net/ep00/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bearlyapodcast.net/ep00/</guid>
+      <description>Welcome to episode 00 of bearly a podcast. This is just a little introductory episode to find out a little more about your host Matt, and to set your expectations of what is to come!</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://bearlyapodcast.net/about/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bearlyapodcast.net/about/</guid>
+      <description>I love my podcast You should love it too</description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>https://bearlyapodcast.net/contact/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bearlyapodcast.net/contact/</guid>
+      <description>Here&amp;rsquo;s the best way to show your support, or contact matt;
+email - matthewharazim@vivaldi.net</description>
+    </item>
+    
+    <item>
+      <title>Matt Harazim</title>
+      <link>https://bearlyapodcast.net/host/matt/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bearlyapodcast.net/host/matt/</guid>
+      <description>Matt is an unemployed audio creative (sound design and audio engineering) but an employed retail worker. Most of his time is crammed with retail work, but in his free time, Matt is an avid TTRPG gamer currently playing D&amp;amp;D 5e with Roll For Mischief; GM Blades in the Dark and Symbaroum; hoping to GM Heart the City Beneath. Other than gaming, Matt lives for coffee, and happily reads his way through sci-fi and fantasy books, whilst trying to teach two cats to love him.</description>
+    </item>
+    
+    <item>
+      <title>Mel Chapiron</title>
+      <link>https://bearlyapodcast.net/guest/mchapiron/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bearlyapodcast.net/guest/mchapiron/</guid>
+      <description>Mel is awesome; Interior Designer by education, and overall magnificent person, you&amp;rsquo;ll be hard pressed to find someone with an extensive coffee knowledge as her. Having worked for several years with Matt, she now is looking to the future and what lies beyond.</description>
+    </item>
+    
+  </channel>
+</rss>

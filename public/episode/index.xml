@@ -1,0 +1,68 @@
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    >
+  <channel>
+    <title>bearly a podcast</title>
+    <atom:link href="https://bearlyapodcast.net/episode/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bearlyapodcast.net/</link>
+    <description>Matt thought as an unemployed audio creative, having a podcast on his portfolio might get him a job. Then he thought, what the heck? Join him on a weekly tangent on a random topic, from CBD to Homelabs, and everything in between. Sometimes even with a guest!</description>
+    <lastBuildDate>Wed, 27 Jan 2021 04:09:45 -0500</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <language>en-gb</language>
+    <copyright>Copyright 2020 Matt Harazim</copyright>
+    
+    <itunes:author>Matthew Harazim</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:author>Matthew Harazim</googleplay:author>
+    <googleplay:email>matthewharazim@vivaldi.net</googleplay:email>
+    <itunes:summary>Matt thought as an unemployed audio creative, having a podcast on his portfolio might get him a job. Then he thought, what the heck? Join him on a weekly tangent on a random topic, from CBD to Homelabs, and everything in between. Sometimes even with a guest!</itunes:summary>
+    <googleplay:description>Matt thought as an unemployed audio creative, having a podcast on his portfolio might get him a job. Then he thought, what the heck? Join him on a weekly tangent on a random topic, from CBD to Homelabs, and everything in between. Sometimes even with a guest!</googleplay:description>
+    <itunes:owner>
+      <itunes:name>Matthew Harazim</itunes:name>
+      <itunes:email>matthewharazim@vivaldi.net</itunes:email>
+    </itunes:owner>
+    <itunes:image href="img/genericCover%282%29.png" />
+    <googleplay:image href="img/genericCover%282%29.png"></googleplay:image>
+    <image>
+      <url>img/genericCover(2).png</url>
+      <title>bearly a podcast</title>
+      <link>https://bearlyapodcast.net/</link>
+    </image>
+    <itunes:category text="Leisure">
+      <itunes:category text="Hobbies" /><itunes:category text="Games" /></itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Let&#39;s Talk About Stuff</title>
+          <link>https://bearlyapodcast.net/teaser00/</link>
+          <pubDate>Wed, 27 Jan 2021 04:09:45 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://www.bearlyapodcast.net//audio/BAP_T01.mp3</guid>
+          <itunes:author>
+            
+            
+              Matt Harazim</itunes:author>
+          
+          <itunes:episode>00</itunes:episode>
+          
+        <itunes:title>Let&#39;s Talk About Stuff</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        bearly a podcast! is a audio blog/podcast about Matt, a 25 y/o wannabe sound engineer, with lots of knowledge and no experience. Each week, Matt tackles a new and exciting topic; sometimes trying to learn things, sometimes trying to teach. If...
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>bearly a podcast! is a audio blog/podcast about Matt, a 25 y/o wannabe sound engineer, with lots of knowledge and no experience. Each week, Matt tackles a new and exciting topic; sometimes trying to learn things, sometimes trying to teach. If you like nerdy things, pop culture and seeing if one man can crack the audio industry then this podcast is for you! In this pseudo episode, Matt talks about the inspiration behind the podcast, and what you can expect in the future!</itunes:summary>
+        <description>bearly a podcast! is a audio blog/podcast about Matt, a 25 y/o wannabe sound engineer, with lots of knowledge and no experience. Each week, Matt tackles a new and exciting topic; sometimes trying to learn things, sometimes trying to teach. If you like nerdy things, pop culture and seeing if one man can crack the audio industry then this podcast is for you! In this pseudo episode, Matt talks about the inspiration behind the podcast, and what you can expect in the future!</description>
+        <googleplay:description>bearly a podcast! is a audio blog/podcast about Matt, a 25 y/o wannabe sound engineer, with lots of knowledge and no experience. Each week, Matt tackles a new and exciting topic; sometimes trying to learn things, sometimes trying to teach. If you like nerdy things, pop culture and seeing if one man can crack the audio industry then this podcast is for you! In this pseudo episode, Matt talks about the inspiration behind the podcast, and what you can expect in the future!</googleplay:description>
+        <content:encoded><![CDATA[<p>bearly a podcast! is a audio blog/podcast about Matt, a 25 y/o wannabe sound engineer, with lots of knowledge and no experience. Each week, Matt tackles a new and exciting topic; sometimes trying to learn things, sometimes trying to teach. If you like nerdy things, pop culture and seeing if one man can crack the audio industry then this podcast is for you! In this pseudo episode, Matt talks about the inspiration behind the podcast, and what you can expect in the future!</p>
+]]></content:encoded><itunes:image href="https://bearlyapodcast.net/img/episode/T01.jpg"></itunes:image>
+          <googleplay:image href="https://bearlyapodcast.net/img/episode/T01.jpg"></googleplay:image><enclosure url="https://www.bearlyapodcast.net//audio/BAP_T01.mp3" length="4321467" type="audio/mpeg" /><itunes:duration>00:02:56</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>false</googleplay:explicit></item></channel>
+</rss>

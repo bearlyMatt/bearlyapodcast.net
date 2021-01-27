@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bearly a host on bearly a podcast</title>
+    <link>https://bearlyapodcast.net/host/</link>
+    <description>Recent content in bearly a host on bearly a podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bearlyapodcast.net/host/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Matt Harazim</title>
+      <link>https://bearlyapodcast.net/host/matt/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bearlyapodcast.net/host/matt/</guid>
+      <description>Matt is an unemployed audio creative (sound design and audio engineering) but an employed retail worker. Most of his time is crammed with retail work, but in his free time, Matt is an avid TTRPG gamer currently playing D&amp;amp;D 5e with Roll For Mischief; GM Blades in the Dark and Symbaroum; hoping to GM Heart the City Beneath. Other than gaming, Matt lives for coffee, and happily reads his way through sci-fi and fantasy books, whilst trying to teach two cats to love him.</description>
+    </item>
+    
+  </channel>
+</rss>

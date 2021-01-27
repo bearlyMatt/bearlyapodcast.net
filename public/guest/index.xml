@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bearly guests on bearly a podcast</title>
+    <link>https://bearlyapodcast.net/guest/</link>
+    <description>Recent content in bearly guests on bearly a podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bearlyapodcast.net/guest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mel Chapiron</title>
+      <link>https://bearlyapodcast.net/guest/mchapiron/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bearlyapodcast.net/guest/mchapiron/</guid>
+      <description>Mel is awesome; Interior Designer by education, and overall magnificent person, you&amp;rsquo;ll be hard pressed to find someone with an extensive coffee knowledge as her. Having worked for several years with Matt, she now is looking to the future and what lies beyond.</description>
+    </item>
+    
+  </channel>
+</rss>

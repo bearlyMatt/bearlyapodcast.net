@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html itemscope lang="en-gb">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <meta name="description" content="![bearlyAPodcast](img/hugoHeader.png) bearly a podcast! is a audio blog/podcast about Matt, a 25 y/o wannabe sound engineer, with lots of knowledge and no experience. Each week, Matt tackles a new and exciting topic; sometimes trying to learn things, sometimes trying to teach. If you like nerdy things, pop culture and seeing if one man can crack the audio industry then this podcast is for you! Follow Matt as he spirals out of control regarding the weeks&#39; topic - sometimes even with a guest. Topics range from [CBD](https://www.bearlyapodcast.net/ep01), to [homelabs](https://www.bearlyapodcast.net/ep02) and everything in between. Publishing cycle has yet to be defined, however, **Mondays** seem very likely!">
+  
+
+<meta name="generator" content="Hugo 0.68.3" />
+
+<meta property="og:title" content="The Wonders of a Homelab" />
+<meta name="twitter:title" content="The Wonders of a Homelab"/>
+<meta itemprop="name" content="The Wonders of a Homelab">
+<meta property="article:published_time" content="2020-12-21T00:00:00Z" />
+<meta property="article:modified_time" content="2020-12-21T00:00:00Z" />
+<meta property="og:updated_time" content="2020-12-21T00:00:00Z" /><meta property="og:description" content="Welcome to episode 02 of bearly a podcast.
+In this episode Matt discusses his experience of the Homelab (a home computer server, or &lsquo;cloud&rsquo;). As a budding programmer, the experiences had whilst configuring a homeserver has been brilliant. Even if that did involve hours of troubleshooting and restarting." />
+    <meta name="twitter:description" content="Welcome to episode 02 of bearly a podcast.
+In this episode Matt discusses his experience of the Homelab (a home computer server, or &lsquo;cloud&rsquo;). As a budding programmer, the experiences had whilst configuring a homeserver has been brilliant. Even if that did involve hours of troubleshooting and restarting." />
+    <meta itemprop="description" content="Welcome to episode 02 of bearly a podcast.
+In this episode Matt discusses his experience of the Homelab (a home computer server, or &lsquo;cloud&rsquo;). As a budding programmer, the experiences had whilst configuring a homeserver has been brilliant. Even if that did involve hours of troubleshooting and restarting."><meta name="twitter:site" content="@bearly_matt"/>
+<meta name="twitter:creator" content="@bearly_matt"/>
+
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/ep02/" />
+
+
+
+
+
+
+
+
+<title>
+
+
+     The Wonders of a Homelab 
+
+</title>
+<link rel="canonical" href="https://bearlyapodcast.net/ep02/">
+
+<link rel="icon" href="icons/favicon.ico">
+
+
+
+
+
+
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="theme-color" content="#ffffff">
+
+<link href="https://bearlyapodcast.net/css/grey.css" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Lato|Raleway" rel="stylesheet">
+
+
+<link href=https://bearlyapodcast.net/css/all.css rel="stylesheet">
+<link href=https://bearlyapodcast.net/css/mediaelementplayer.min.css rel="stylesheet">
+<style>
+    .mejs__overlay-button {
+        background-image: url("/img/mejs-controls.svg");
+    }
+    .mejs__overlay-loading-bg-img {
+        background-image: url("/img/mejs-controls.svg");
+    }
+    .mejs__button > button {
+        background-image: url("/img/mejs-controls.svg");
+    }
+    </style>
+<link href=https://bearlyapodcast.net/css/speed.min.css rel="stylesheet">
+
+
+</head>
+
+<body lang="">
+<nav class="navbar fixed-top navbar-expand-md navbar-light bg-light">
+<div class="container">
+<a class="navbar-brand" href="https://bearlyapodcast.net/">bearly a podcast</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div id="navbarSupportedContent" class="navbar-collapse collapse">
+      <ul class="navbar-nav mr-auto">
+          
+          
+            
+                <li class= "nav-item ">
+                <a href="/contact" class="nav-link">
+                    
+                    <span>Contact</span>
+                </a>
+              </li>
+            
+          
+            
+                <li class= "nav-item ">
+                <a href="/guest" class="nav-link">
+                    
+                    <span>Guests</span>
+                </a>
+              </li>
+            
+          
+            
+                <li class= "nav-item ">
+                <a href="/host" class="nav-link">
+                    
+                    <span>Hosts</span>
+                </a>
+              </li>
+            
+          
+            
+                <li class= "nav-item ">
+                <a href="/upcoming" class="nav-link">
+                    
+                    <span>Upcoming Episodes</span>
+                </a>
+              </li>
+            
+          
+        </ul>
+
+
+      <ul class="navbar-nav ml-auto">
+        
+        
+          <li>
+            <a class = "social-links" href="https://twitter.com/bearly_matt"><i class="fab fa-twitter-square fa-2x"></i></a>
+          </li>
+        
+        
+        
+        
+        
+          <li>
+            <a class = "social-links" href="https://www.instagram.com/matthewharazim"><i class="fab fa-instagram fa-2x"></i></a>
+          </li>
+        
+        
+        
+        
+        
+        <li>
+          <a class = "social-links" href="https://twitch.tv/PunckRockTurtle"><i class="fab fa-twitch fa-2x"></i></a>
+        </li>
+      
+      </ul>
+  </div>
+  </div>
+  </nav>
+
+<div class="container middle_container">
+  
+
+  <div class="row">
+    <div class="col">
+      <h1>The Wonders of a Homelab</h1><small>Scheduled for Monday, Dec 21, 2020</small></div>
+  </div>
+
+  
+    
+      <div class = "row">
+      <div class = "col">
+        <img src="https://bearlyapodcast.net/img/episode/02Banner.jpeg" class="img-fluid episode_image"/>
+      </div>
+      </div>
+      <div class = "row">
+      <div class = "col">
+        
+      </div>
+      </div>
+    
+    
+
+  <div class="row">
+    <div class="col">
+      <h2>Show Notes</h2>
+      <p>Welcome to episode 02 of <em>bearly a podcast</em>.<br>
+In this episode Matt discusses his experience of the Homelab (a home computer server, or &lsquo;cloud&rsquo;). As a budding programmer, the experiences had whilst configuring a homeserver has been brilliant. Even if that did involve <strong>hours</strong> of troubleshooting and restarting.</p>
+
+    </div>
+  </div>
+
+
+
+  
+
+  
+  <div class="row">
+    <div class="col">
+      <h2>Hosts</h2>
+    </div>
+  </div>
+      
+        <div class="row person_row">
+            <div class="col-md-3"><img alt="Matt Harazim" src="https://bearlyapodcast.net/img/host/matt.jpeg" class="img-fluid" width="250px"></div>
+            <div class="col-md-8">
+              <h2><a href = "https://bearlyapodcast.net/host/matt/">Matt Harazim</a></h2>
+              <p>Matt is an unemployed audio creative (sound design and audio engineering) but an employed retail worker. Most of his time is crammed with retail work, but in his free time, Matt is an avid TTRPG gamer currently playing D&amp;D 5e with <a href="https://www.twitch.tv/rollformischief">Roll For Mischief</a>; GM Blades in the Dark and Symbaroum; hoping to GM Heart the City Beneath. Other than gaming, Matt lives for coffee, and happily reads his way through sci-fi and fantasy books, whilst trying to teach two cats to love him.</p>
+<a href="https://www.matthewharazim.co.uk">
+                  <i class="fas fa-home fa-2x"></i>
+                </a><a href="https://twitter.com/bearly_matt">
+                  <i class="fab fa-twitter-square fa-2x"></i>
+                </a><a href="https://www.instagram.com/matthewharazim">
+                  <i class="fab fa-instagram fa-2x"></i>
+                </a><a href="https://twitch.tv/PunckRockTurtle">
+                <i class="fab fa-twitch fa-2x"></i>
+              </a></div>
+            </div>
+
+
+
+      <div class="row">
+        
+        <div class="col-md-12">
+          <div id="share"></div>
+        </div>
+      </div>
+      
+      
+
+      <div class="row">
+        
+        <div class="col-md-12">
+          <nav>
+            <ul class="pagination">
+              
+                <li class="page-item">
+                  <a href="https://bearlyapodcast.net/ep01/" class="page-link">
+                    <span aria-hidden="true">&larr;</span>
+                    Previous</a>
+                </li>
+                
+              
+                <li class="page-item">
+                  <a href="https://bearlyapodcast.net/teaser00/" class="page-link">Next
+                    <span aria-hidden="true">&rarr;</span>
+                  </a>
+                </li>
+                
+            </ul>
+          </nav>
+        </div>
+      </div>
+      
+    
+</div> 
+<div class = "container bottom_container">
+  <div class="row">
+  <div class="col-md-12">
+    <nav class = "navbar navbar-default navbar_footer">
+    <ul class="nav navbar-nav navbar-right">
+      
+        <li>
+          <p class = "footer_copyright">bearly a podcast! by <a href="https://www.matthewharazim.co.uk">Matthew Harazim</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1">CC BY-SA 4.0</a></p>
+        </li>
+      
+      <li>
+        &nbsp;
+      </li>
+    </ul>
+  </nav>
+
+  </div>
+</div>
+</div>
+<script src='https://bearlyapodcast.net/js/castanet-min.js'></script>
+<script>
+    $("#share").jsSocials({
+        shares: [
+      {
+        share: "facebook",
+        logo: "fab fa-facebook",
+      },
+      {
+        share: "twitter",           
+        label: "Tweet",             
+        logo: "fab fa-twitter",
+        
+          via: "bearly_matt",       
+        
+        url: "https:\/\/bearlyapodcast.net\/ep02\/",
+        text: "The Wonders of a Homelab"
+      },
+      {
+        share: "linkedin",
+        logo: "fab fa-linkedin"
+      },
+      {
+        share: "pinterest",
+        logo: "fab fa-pinterest"
+      }
+    ],
+    });
+</script>
+
+<script>
+  $(document).ready(function() {
+
+    $('.transcript').hide();
+    $(".hide_transcript").hide();
+    $(".hide_transcript").click(function () {
+    $(".transcript").hide("fast");
+    $(".show_transcript").show();
+    $(".hide_transcript").hide();
+   });
+
+    $(".show_transcript").click(function () {
+    $(".transcript").show(500);
+    $(".hide_transcript").show();
+    $(".show_transcript").hide();
+   });
+
+  });
+
+</script>
+
+<script>
+  var player = new MediaElementPlayer('player2', {
+      features: ['playpause', 'current', 'progress', 'duration', 'volume','speed'],
+      defaultSpeed: 1.0,
+      
+  });
+</script>
+
+
+
+
+
+
+</body>
+</html>
+
